@@ -27,7 +27,21 @@
 		</modExtensions>
 	</ThoughtDef>
 
-	
+	<ThoughtDef>	
+		<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+		<hediff>VCE_ConsumedWasabi</hediff>
+		<defName>VCE_ConsumedWasabi</defName>
+		<durationDays>1</durationDays>
+		<stages>
+			<li>
+				<label>breath of the dragon</label>
+				<description>My whole nose burns! Please give me more.</description>
+				<baseMoodEffect>-1</baseMoodEffect>
+			</li>
+		</stages>	
+	</ThoughtDef>
+
+
 
 
 

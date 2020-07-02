@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- ======= Ingredient based thoughts ========= -->
+
+
+
+
+	<ThoughtDef>	
+		<thoughtClass>VanillaCookingExpanded.Thought_Hediff</thoughtClass>
+		<defName>VCE_ConsumedSoySauce</defName>
+		<hediff>VCE_ConsumedSoySauce</hediff>
+		<durationDays>1</durationDays>
+		<stages>
+			<li>
+				<label>consumed soy sauce</label>
+				<description>Saltiness, moderate umami, sweet taste, and a very slight bitterness. Perfection.</description>
+				<baseMoodEffect>5</baseMoodEffect>
+			</li>
+		</stages>	
+		<modExtensions>
+			<li Class="VanillaCookingExpanded.Thought_Hediff_Extension">
+				<hediffToAffect>VCE_HighBloodPressure</hediffToAffect>
+				<partToAffect>Body</partToAffect>
+				<percentage>0.0075</percentage>
+			</li>
+		</modExtensions>
+	</ThoughtDef>
+
+	
+
+
+
+
+</Defs>

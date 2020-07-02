@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>  
+
+
+	<ThingDef ParentName="RoughPlantBase">
+		<defName>VCE_SoySauce</defName>
+		<label>soy sauce</label>
+		<description>A fermented paste of soybeans, roasted grain, brine, and Aspergillus bacteria. Soy sauce can be added directly to food, and is used as a dip or salt flavor in cooking, as well as providing a rich umami taste.</description>
+		<graphicData>
+			<texPath>Things/Items/Condiments/VCE_SoySauce</texPath>
+			<graphicClass>Graphic_StackCount</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>15</MarketValue>
+			<Nutrition>1</Nutrition>
+			<Flammability>1</Flammability>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>120</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>VCE_Condiments</li>
+		</thingCategories>
+		<ingestible>
+			<preferability>NeverForNutrition</preferability>
+			<specialThoughtAsIngredient>VCE_ConsumedSoySauce</specialThoughtAsIngredient>
+		</ingestible>
+	</ThingDef>
+
+	
+
+
+
+
+
+
+
+
+</Defs>

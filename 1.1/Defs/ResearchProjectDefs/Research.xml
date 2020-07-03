@@ -11,7 +11,7 @@
 		<description>Soybean fermentation is the process by which soybeans are submitted to a chemical breakdown by bacteria, yeasts, or other microorganisms, transforming into new products. This research gives access to the soy sauce fermenter.</description>
 		<baseCost>500</baseCost>
 		<researchViewX>2</researchViewX>
-		<researchViewY>0</researchViewY>
+		<researchViewY>1</researchViewY>
 	</ResearchProjectDef>
 	
 

@@ -69,6 +69,116 @@
 			</li>
 		</stages>
 	</HediffDef>
+	
+	<HediffDef>
+		<defName>VCE_AteSimpleSushi</defName>
+		<label>consumed simple sushi (from meal)</label>
+		<makesSickThought>false</makesSickThought>
+		<description>I have eaten a delicious and filling sushi meal.</description>
+		<tendable>false</tendable>
+		<isBad>false</isBad>
+		<defaultLabelColor>(92,62,198)</defaultLabelColor>
+		<hediffClass>HediffWithComps</hediffClass>
+		<initialSeverity>1.0</initialSeverity>
+		<maxSeverity>1.0</maxSeverity>
+		<comps>
+			<li Class="VanillaCookingExpanded.HediffCompProperties_WhileHavingThoughts">
+				<thoughtDefs>
+					<li>VCE_AteSimpleSushi</li>							
+				</thoughtDefs>
+			</li>
+		</comps>
+		<stages>
+			<li>   				
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef>
+		<defName>VCE_AteFineSushi</defName>
+		<label>consumed fine sushi (from meal)</label>
+		<makesSickThought>false</makesSickThought>
+		<description>I have eaten a delicious and filling sushi meal.</description>
+		<tendable>false</tendable>
+		<isBad>false</isBad>
+		<defaultLabelColor>(92,62,198)</defaultLabelColor>
+		<hediffClass>HediffWithComps</hediffClass>
+		<initialSeverity>1.0</initialSeverity>
+		<maxSeverity>1.0</maxSeverity>
+		<comps>
+			<li Class="VanillaCookingExpanded.HediffCompProperties_WhileHavingThoughts">
+				<thoughtDefs>					
+					<li>VCE_AteFineSushi</li>						
+				</thoughtDefs>
+				<removeThoughtDefs>					
+					<li>AteFineMeal</li>						
+				</removeThoughtDefs>
+			</li>
+		</comps>
+		<stages>
+			<li>   
+				
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef>
+		<defName>VCE_AteLavishSushi</defName>
+		<label>consumed lavish sushi (from meal)</label>
+		<makesSickThought>false</makesSickThought>
+		<description>I have eaten a delicious and filling sushi meal.</description>
+		<tendable>false</tendable>
+		<isBad>false</isBad>
+		<defaultLabelColor>(92,62,198)</defaultLabelColor>
+		<hediffClass>HediffWithComps</hediffClass>
+		<initialSeverity>1.0</initialSeverity>
+		<maxSeverity>1.0</maxSeverity>
+		<comps>
+			<li Class="VanillaCookingExpanded.HediffCompProperties_WhileHavingThoughts">
+				<thoughtDefs>					
+					<li>VCE_AteLavishSushi</li>						
+				</thoughtDefs>
+				<removeThoughtDefs>					
+					<li>AteLavishMeal</li>						
+				</removeThoughtDefs>
+			</li>
+		</comps>
+		<stages>
+			<li>   
+			
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef>
+		<defName>VCE_AteGourmetSushi</defName>
+		<label>consumed gourmet sushi (from meal)</label>
+		<makesSickThought>false</makesSickThought>
+		<description>I have eaten a delicious and filling sushi meal.</description>
+		<tendable>false</tendable>
+		<isBad>false</isBad>
+		<defaultLabelColor>(92,62,198)</defaultLabelColor>
+		<hediffClass>HediffWithComps</hediffClass>
+		<initialSeverity>1.0</initialSeverity>
+		<maxSeverity>1.0</maxSeverity>
+		<comps>
+			<li Class="VanillaCookingExpanded.HediffCompProperties_WhileHavingThoughts">
+				<thoughtDefs>					
+					<li>VCE_AteGourmetSushi</li>						
+				</thoughtDefs>
+				<removeThoughtDefs>		
+					<li>AteLavishMeal</li>	
+					<li>VCE_AteLavishSushi</li>	
+					<li>VCE_AteGourmetMeal</li>						
+				</removeThoughtDefs>
+			</li>
+		</comps>
+		<stages>
+			<li>   
+				
+			</li>
+		</stages>
+	</HediffDef>
 
 	
 

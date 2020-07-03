@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Vanilla Cooking Expanded - Sushi</name>
-	<author>Sarg Bjornson</author>
+	<author>Sarg Bjornson, Oskar Potocki</author>
 	<supportedVersions>
      
       <li>1.1</li>
@@ -24,10 +24,9 @@
 	</modDependencies>
 		<packageId>VanillaExpanded.VCookESushi</packageId>
 	
-	<description>Vanilla Cooking Expanded - Sushi is a first sub-module to the new Vanilla Cuisine Expanded mod series. This particular mod introduces medieval stews - which are more nutritious, more expensive soups that are cooked over time on the wood-fired pot.
+	<description>Vanilla Cooking Expanded - Sushi is the second sub-module to the new Vanilla Cuisine Expanded mod series. This particular mod introduces sushi - a fish and rice based food that is immensely popular on the Rim.
 
-Ideal for your medieval colonies and long winter nights, these stews remove any debuffs from eating ingredients like insect meat and human meat! Time to sneak some human flesh into your diet.
+The module is an amazing way to make good use of our fishing mod, since all sushi meals need fish. It also includes two new plants, wasabi and soybeans, and two new condiments extracted from them: wasabi paste and soy sauce. Soy sauce needs to be fermented, and its quality will increase with time, in case you decide to use it as a "cash crop".
 
-Bone Apple Tie (sic!).
-</description>
+And of course you can always deep fry your sushi.</description>
 </ModMetaData>

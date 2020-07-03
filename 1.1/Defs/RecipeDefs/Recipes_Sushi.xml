@@ -257,9 +257,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.1</count>
 			</li>		
@@ -305,9 +305,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.4</count>
 			</li>		
@@ -352,9 +352,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.3</count>
 			</li>		
@@ -401,9 +401,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>1.2</count>
 			</li>		
@@ -424,7 +424,7 @@
 		<defName>VCE_CookTemakiLavish</defName>
 		<label>make temaki (lavish)</label>
 		<description>Make a masterpiece of the culinary arts, this temaki nourishes the body, mind, and soul.</description>
-		<label>Making temaki (lavish).</label>
+		<jobString>Making temaki (lavish).</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_CookMeal</soundWorking>
@@ -452,9 +452,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.25</count>
 			</li>		
@@ -471,7 +471,7 @@
 		<defName>VCE_CookTemakiLavishBulk</defName>
 		<label>make temaki (lavish) x4</label>
 		<description>Make 4 masterpieces of the culinary arts, these temaki nourish the body, mind, and soul.</description>
-		<label>Making temaki (lavish) x4.</label>
+		<jobString>Making temaki (lavish) x4.</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<workAmount>3200</workAmount>
@@ -500,9 +500,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>1</count>
 			</li>		
@@ -519,7 +519,7 @@
 		<defName>VCE_CookFutomakiLavish</defName>
 		<label>make futomaki (lavish)</label>
 		<description>Make a masterpiece of the culinary arts, this futomaki nourishes the body, mind, and soul.</description>
-		<label>Making futomaki (lavish).</label>
+		<jobString>Making futomaki (lavish).</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_CookMeal</soundWorking>
@@ -547,9 +547,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.5</count>
 			</li>		
@@ -566,7 +566,7 @@
 		<defName>VCE_CookFutomakiLavishBulk</defName>
 		<label>make futomaki (lavish) x4</label>
 		<description>Make 4 masterpieces of the culinary arts, these futomaki nourish the body, mind, and soul.</description>
-		<label>Making futomaki (lavish) x4.</label>
+		<jobString>Making futomaki (lavish) x4.</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<workAmount>3200</workAmount>
@@ -595,9 +595,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>2</count>
 			</li>		
@@ -617,7 +617,7 @@
 		<defName>VCE_CookGunkanmakiGourmet</defName>
 		<label>make gunkanmaki (gourmet)</label>
 		<description>Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity gunkanmaki.</description>
-		<label>Making gunkanmaki (gourmet).</label>
+		<jobString>Making gunkanmaki (gourmet).</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_CookMeal</soundWorking>
@@ -646,9 +646,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.25</count>
 			</li>		
@@ -674,7 +674,7 @@
 		<defName>VCE_CookOshizushiiGourmet</defName>
 		<label>make oshizushi (gourmet)</label>
 		<description>Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity oshizushi.</description>
-		<label>Making oshizushi (gourmet).</label>
+		<jobString>Making oshizushi (gourmet).</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_CookMeal</soundWorking>
@@ -703,9 +703,9 @@
 			</li>
 			<li>
 				<filter>
-					<categories>
+					<thingDefs>
 						<li>RawRice</li>
-					</categories>
+					</thingDefs>
 				</filter>
 				<count>0.5</count>
 			</li>		

@@ -40,7 +40,7 @@
 		<defName>VCE_ConsumedWasabi</defName>
 		<label>consumed wasabi (from meal)</label>
 		<makesSickThought>false</makesSickThought>
-		<description>A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue.</description>
+		<description>A paste made from ground wasabi rhizomes and used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. Wasabi clears your breathing and makes you feel warmer for a while.</description>
 		<tendable>false</tendable>
 		<isBad>false</isBad>
 		<defaultLabelColor>(92,62,198)</defaultLabelColor>
@@ -58,14 +58,19 @@
 			<li>   
 				<capMods>
 					<li>
-						<capacity>BloodFiltration</capacity>
+						<capacity>Consciousness</capacity>
 						<offset>0.05</offset>
 					</li>
 					<li>
-						<capacity>BloodPumping</capacity>
+						<capacity>Breathing</capacity>
 						<offset>0.05</offset>
 					</li>
+					
 				</capMods>
+				<statOffsets>
+					<ComfyTemperatureMin>-10</ComfyTemperatureMin>	
+									
+				</statOffsets>
 			</li>
 		</stages>
 	</HediffDef>

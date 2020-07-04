@@ -28,7 +28,7 @@
 			<maxMeshCount>1</maxMeshCount>
 			<harvestTag>Standard</harvestTag>
 			<harvestedThingDef>VCE_RawSoybean</harvestedThingDef>
-			<harvestYield>8</harvestYield>
+			<harvestYield>7</harvestYield>
 			<sowTags>
 				<li>Ground</li>
 				<li>Hydroponic</li>

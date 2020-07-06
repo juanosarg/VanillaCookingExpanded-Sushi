@@ -18,6 +18,7 @@
 			<WorkToMake>300</WorkToMake>
 			<Nutrition>0.9</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealSimple</preferability>
 			<tasteThought>VCE_AteSimpleSushi</tasteThought>
@@ -39,6 +40,7 @@
 			<WorkToMake>300</WorkToMake>
 			<Nutrition>0.9</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealSimple</preferability>
 			<tasteThought>VCE_AteSimpleSushi</tasteThought>
@@ -62,6 +64,7 @@
 			<WorkToMake>450</WorkToMake>
 			<Nutrition>1</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealFine</preferability>
 			<tasteThought>VCE_AteFineSushi</tasteThought>
@@ -84,6 +87,7 @@
 			<WorkToMake>450</WorkToMake>
 			<Nutrition>1</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealFine</preferability>
 			<tasteThought>VCE_AteFineSushi</tasteThought>
@@ -108,6 +112,7 @@
 			<WorkToMake>800</WorkToMake>
 			<Nutrition>1</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealLavish</preferability>			
 			<tasteThought>VCE_AteLavishSushi</tasteThought>
@@ -129,6 +134,7 @@
 			<WorkToMake>800</WorkToMake>
 			<Nutrition>1</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealLavish</preferability>			
 			<tasteThought>VCE_AteLavishSushi</tasteThought>
@@ -152,8 +158,10 @@
 			<WorkToMake>1500</WorkToMake>
 			<Nutrition>0.7</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealLavish</preferability>
+			<optimalityOffsetHumanlikes>1</optimalityOffsetHumanlikes>
 			<tasteThought>VCE_AteGourmetSushi</tasteThought>
 			<ingestEffect>EatVegetarian</ingestEffect>
 			<ingestSound>Meal_Eat</ingestSound>
@@ -177,8 +185,10 @@
 			<WorkToMake>1500</WorkToMake>
 			<Nutrition>0.7</Nutrition>
 		</statBases>
+		<rotatable>false</rotatable>
 		<ingestible>
 			<preferability>MealLavish</preferability>
+			<optimalityOffsetHumanlikes>1</optimalityOffsetHumanlikes>
 			<tasteThought>VCE_AteGourmetSushi</tasteThought>
 			<ingestEffect>EatVegetarian</ingestEffect>
 			<ingestSound>Meal_Eat</ingestSound>

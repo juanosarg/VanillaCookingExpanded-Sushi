@@ -27,6 +27,7 @@
 		</thingCategories>
 		<ingestible>
 			<foodType>Meal</foodType>
+			<optimalityOffsetHumanlikes>-1</optimalityOffsetHumanlikes>
 			<preferability>MealSimple</preferability>
 			<tasteThought>VCE_AteFriedSushi</tasteThought>
 			<specialThoughtAsIngredient>VCE_AteFriedSushi</specialThoughtAsIngredient>

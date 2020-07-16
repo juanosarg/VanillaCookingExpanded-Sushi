@@ -20,6 +20,10 @@
 				<daysToRotStart>120</daysToRotStart>
 				<rotDestroys>true</rotDestroys>
 			</li>
+			<li>
+                <compClass>CompQuality</compClass>
+            </li>
+			<li Class="VanillaCookingExpanded.CompProperties_StackByQuality" />
 		</comps>
 		<thingCategories>
 			<li>VCE_Condiments</li>

@@ -749,11 +749,11 @@
             <li>Meat_Human</li>
           </thingDefs>
         </filter>
-        <count>25</count>
+        <count>1</count>
       </li>
     </ingredients>
     <products>
-      <VCE_HumanSurimi>25</VCE_HumanSurimi>
+      <VCE_HumanSurimi>20</VCE_HumanSurimi>
     </products>
     <fixedIngredientFilter>
      

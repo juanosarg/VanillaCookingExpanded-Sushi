@@ -2,3 +2,7 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpand
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.1\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.csprojAssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.1\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.1\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.3\Assemblies\VanillaSushiExpanded.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.3\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.3\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\VanillaCookingExpanded-Sushi\1.3\Source\VanillaSushiExpanded\VanillaSushiExpanded\obj\Debug\VanillaSushiExpanded.dll

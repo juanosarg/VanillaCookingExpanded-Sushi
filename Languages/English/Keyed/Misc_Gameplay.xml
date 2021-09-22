@@ -15,7 +15,11 @@
 	<VCE_RemoveSoySauce>Remove Soy Sauce ({0})</VCE_RemoveSoySauce>
 	<VCE_RemoveSoySauceDesc>Remove soy sauce from the fermenter. The sauce will be ready at the present quality level ({0})</VCE_RemoveSoySauceDesc>
 	
+	<!-- Condiment stats (using code from AnimalBehaviours) -->
+	
 
+	<VCE_CondimentEffectsSoy>Consuming meals that include this condiment increases mood by 5 and increases blood pumping and filtration by 5% for 12 hours.</VCE_CondimentEffectsSoy>
+	<VCE_CondimentEffectsWasabi>Consuming meals that include this condiment increases consciousness and breathing by 5%, decreases mood by 1 and decreases minimum lower temperature by 10ºC, all for 12 hours.</VCE_CondimentEffectsWasabi>
 
 	
 

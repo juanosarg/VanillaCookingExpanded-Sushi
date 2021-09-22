@@ -37,6 +37,24 @@
 			<li>Condiments</li>
 		  </mergeCompatibilityTags>
 		</ingredient>
+		<modExtensions>
+			<li Class="AnimalBehaviours.AnimalStatExtension">
+				
+				<statToAdd>
+					<li>VCE_CondimentEffects</li>
+					<li>VCE_HealthEffects</li>			
+				</statToAdd>
+				<statValues>
+					<li>VCE_CondimentEffectsTitle</li>
+					<li>VCE_HighBloodPressureEffect</li>				
+				</statValues>
+				<statDescriptions>
+					<li>VCE_CondimentEffectsSoy</li>
+					<li>VCE_HighBloodPressureEffectDesc</li>
+				</statDescriptions>
+				
+			</li>
+		</modExtensions>
 	</ThingDef>
 	
 	<ThingDef ParentName="RoughPlantBase">
@@ -70,6 +88,24 @@
 			<li>Condiments</li>
 		  </mergeCompatibilityTags>
 		</ingredient>
+		<modExtensions>
+			<li Class="AnimalBehaviours.AnimalStatExtension">
+				
+				<statToAdd>
+					<li>VCE_CondimentEffects</li>
+					<li>VCE_HealthEffects</li>			
+				</statToAdd>
+				<statValues>
+					<li>VCE_CondimentEffectsTitle</li>
+					<li>VCE_NoEffect</li>				
+				</statValues>
+				<statDescriptions>
+					<li>VCE_CondimentEffectsWasabi</li>
+					<li>VCE_NoEffectDesc</li>
+				</statDescriptions>
+				
+			</li>
+		</modExtensions>
 	</ThingDef>
 
 	
